@@ -271,7 +271,7 @@ body.active #section1 .sec1 .detail {opacity: 1;}
 }
 
 .sec3 .left_box {
-	width: 450px; height: 440px; background: #1a1a1a; margin-left: 60px;
+	width: 450px; height: 490px; background: #1a1a1a; margin-left: 60px;
 	position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
 }
 .sec3 .box01 {z-index: 5;}
